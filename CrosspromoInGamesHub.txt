@@ -1,0 +1,6 @@
+{
+	"VersionID" : "1.0" ,
+	"PlayMarketLink" : "https://apps.apple.com/us/app/smart-baby-games-for-kids/id1016019899" ,
+	"AppStoreLink" : "https://apps.apple.com/us/app/smart-baby-games-for-kids/id1016019899" ,
+	"VideoURI" : "https://github.com/Geldern/CrossPromo/raw/main/175_2.mp4"
+}
